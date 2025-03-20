@@ -1,2 +1,2 @@
 # electron-todo
-An electron.js porject for todo application.
+An electron.js project for todo application.
